@@ -46,7 +46,7 @@ The code relies on the following dependencies:
 -   OpenAI (API key required)
 -   SpeechRecognition (API key required)
 -   SoundDevice
--   Google Cloud Text-to-Speech (API key required)
+-   Google Cloud Text-to-Speech (API key required, as a .JSON file)
 -   Playsound
 -   NumPy
 
