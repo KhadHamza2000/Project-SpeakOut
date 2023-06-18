@@ -68,4 +68,6 @@ Feel free to contribute to the project by submitting pull requests or reporting 
 
 For any inquiries or suggestions, please feel free to reach out to me via LinkedIn: [Hamza Khadim](https://www.linkedin.com/in/hamza-khadim-073950246/)
 
+For the whole project, visit my DevPost application: https://devpost.com/software/speakout-lgbtq-conversational-advocate?ref_content=user-portfolio&ref_feature=in_progress
+
 Thank you for taking an interest in SpeakOut! Together, let's create a more inclusive and supportive world for everyone. Have a great day!
