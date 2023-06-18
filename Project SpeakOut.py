@@ -133,3 +133,4 @@ SpeakOut interacts with users through voice or text-based conversations, ensurin
 # Thank you for making it this far, and have a great day! :)
 
 # Add me on LinkedIn! ---> https://www.linkedin.com/in/hamza-khadim-073950246/
+# For the whole project, visit my DevPost! ---> https://devpost.com/software/speakout-lgbtq-conversational-advocate?ref_content=user-portfolio&ref_feature=in_progress
